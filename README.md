@@ -11,3 +11,5 @@ information from it to `file.txt`
 2. Run this script
 ### `print_calendar.py`
 This script can show you the calendar of the year and month you specified
+## Technology stack
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
