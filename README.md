@@ -8,3 +8,5 @@ This script can print random lines from your file
 1. Rename the file (the lines of which you want to print) or move the
 information from it to `file.txt`
 2. Run this script
+## `print_calendar.py`
+This script can show you the calendar of the year and month you specified
